@@ -18,7 +18,7 @@ Goroutine dan sinkronisasi, pointer (constant pointer vs. pointer to a constant)
 - Time Management: time.Sleep, sync.WaitGroup
 - Thread lebih ringan => Goroutine
 
-## verb
+## Verb
 %v: Menampilkan nilai dalam format default. ./
 %T: Menampilkan tipe dari nilai.
 %d: Menampilkan angka desimal (untuk tipe integer).
@@ -33,7 +33,7 @@ Goroutine dan sinkronisasi, pointer (constant pointer vs. pointer to a constant)
 %q: Menampilkan string yang dikutip.
 %p: Menampilkan pointer (alamat memori).
 
-## new vs make
+## New vs Make
 ![alt text](image.png)
 
 ## Go Lang Passing By Value
