@@ -18,22 +18,22 @@ Goroutine dan sinkronisasi, pointer (constant pointer vs. pointer to a constant)
 - Time Management: time.Sleep, sync.WaitGroup
 - Thread lebih ringan => Goroutine
 
-## Verb
-%v: Menampilkan nilai dalam format default. ./  
-%T: Menampilkan tipe dari nilai.  
-%d: Menampilkan angka desimal (untuk tipe integer).  
-%b: Menampilkan angka dalam format biner.  
-%c: Menampilkan karakter yang diwakili oleh nilai Unicode.  
-%x: Menampilkan angka dalam format heksadesimal (huruf kecil).  
-%X: Menampilkan angka dalam format heksadesimal (huruf besar).  
-%f: Menampilkan angka desimal (untuk tipe floating point).  
-%e: Menampilkan angka dalam notasi ilmiah (huruf kecil).  
-%E: Menampilkan angka dalam notasi ilmiah (huruf besar).  
-%s: Menampilkan string. tet jooko  
-%q: Menampilkan string yang dikutip.  
-%p: Menampilkan pointer (alamat memori).  
+## verb
+%v: Menampilkan nilai dalam format default. ./
+%T: Menampilkan tipe dari nilai.
+%d: Menampilkan angka desimal (untuk tipe integer).
+%b: Menampilkan angka dalam format biner.
+%c: Menampilkan karakter yang diwakili oleh nilai Unicode.
+%x: Menampilkan angka dalam format heksadesimal (huruf kecil).
+%X: Menampilkan angka dalam format heksadesimal (huruf besar).
+%f: Menampilkan angka desimal (untuk tipe floating point).
+%e: Menampilkan angka dalam notasi ilmiah (huruf kecil).
+%E: Menampilkan angka dalam notasi ilmiah (huruf besar).
+%s: Menampilkan string. tet jooko
+%q: Menampilkan string yang dikutip.
+%p: Menampilkan pointer (alamat memori).
 
-## New vs Make
+## new vs make
 ![alt text](image.png)
 
 ## Go Lang Passing By Value
